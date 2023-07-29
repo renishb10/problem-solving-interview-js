@@ -1,0 +1,32 @@
+body {
+  margin: 0px;
+  height: 100%;
+}
+
+.pane {
+  width: 100%;
+  overflow: auto;
+  height: 100vh;
+}
+
+.leftpane {
+  float: left;
+  width: 10%;
+  background-color: #f0f0f0;
+}
+
+.midpane {
+  float: left;
+  width: 50%;
+  background-color: #fffafa;
+}
+
+.rightpane {
+  float: right;
+  width: 40%;
+  background-color: #ece4e4;
+}
+
+.script {
+  position: relative;
+}
