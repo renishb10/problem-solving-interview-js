@@ -6,5 +6,9 @@ const filePaths = [
   {
     name: "Same array",
     path: "code/02_same_array.js"
+  },
+  {
+    name: "Valid anagram",
+    path: "code/03_valid_anagram.js"
   }
 ]
