@@ -4,7 +4,7 @@ const filePaths = [
     path: "code/01_no_of_characters.js"
   },
   {
-    name: "Find anagram",
-    path: "code/02_anagrams.js"
+    name: "Same array",
+    path: "code/02_same_array.js"
   }
 ]
