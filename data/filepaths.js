@@ -10,5 +10,9 @@ const filePaths = [
   {
     name: "Valid anagram",
     path: "code/03_valid_anagram.js"
+  },
+  {
+    name: "Sum Zero",
+    path: "code/04_sum_zero.js"
   }
 ]
