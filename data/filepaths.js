@@ -22,5 +22,13 @@ const filePaths = [
   {
     name: "Max subarray sum",
     path: "code/06_max_subarray_sum.js"
+  },
+  {
+    name: "Search num in sorted array",
+    path: "code/07_binary_search.js"
+  },
+  {
+    name: "Same frequency",
+    path: "code/08_same_frequency.js"
   }
 ]
