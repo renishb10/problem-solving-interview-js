@@ -14,5 +14,13 @@ const filePaths = [
   {
     name: "Sum Zero",
     path: "code/04_sum_zero.js"
+  },
+  {
+    name: "Count Unique Values",
+    path: "code/05_count_unique_values.js"
+  },
+  {
+    name: "Max subarray sum",
+    path: "code/06_max_subarray_sum.js"
   }
 ]
