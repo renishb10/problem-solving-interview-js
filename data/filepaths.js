@@ -38,5 +38,9 @@ const filePaths = [
   {
     name: "Average pair",
     path: "code/10_average_pair.js"
+  },
+  {
+    name: "Is Subsequence",
+    path: "code/11_is_subsequence.js"
   }
 ]
