@@ -30,5 +30,13 @@ const filePaths = [
   {
     name: "Same frequency",
     path: "code/08_same_frequency.js"
+  },
+  {
+    name: "Are there any duplicates",
+    path: "code/09_are_there_duplicates.js"
+  },
+  {
+    name: "Average pair",
+    path: "code/10_average_pair.js"
   }
 ]
