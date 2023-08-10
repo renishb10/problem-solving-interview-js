@@ -42,5 +42,13 @@ const filePaths = [
   {
     name: "Is Subsequence",
     path: "code/11_is_subsequence.js"
-  }
+  },
+  {
+    name: "Min subarray length",
+    path: "code/12_min_subarray_len.js"
+  },
+  {
+    name: "Find longest substring",
+    path: "code/13_find_longest_substring.js"
+  },
 ]
