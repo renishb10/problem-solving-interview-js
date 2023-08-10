@@ -51,4 +51,8 @@ const filePaths = [
     name: "Find longest substring",
     path: "code/13_find_longest_substring.js"
   },
+  {
+    name: "Find factorial & more",
+    path: "code/13_basic_recursions.js"
+  },
 ]
