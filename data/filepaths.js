@@ -83,4 +83,8 @@ const filePaths = [
     name: "Naive String Search",
     path: "code/21_naive_string_search.js",
   },
+  {
+    name: "Bubble Sort",
+    path: "code/22_bubble_sort.js",
+  },
 ];
