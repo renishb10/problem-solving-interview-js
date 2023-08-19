@@ -91,4 +91,12 @@ const filePaths = [
     name: "Selection Sort",
     path: "code/23_selection_sort.js",
   },
+  {
+    name: "Insertion Sort",
+    path: "code/24_insertion_sort.js",
+  },
+  {
+    name: "Merge Sort",
+    path: "code/25_merge_sort.js",
+  },
 ];
