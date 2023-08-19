@@ -87,4 +87,8 @@ const filePaths = [
     name: "Bubble Sort",
     path: "code/22_bubble_sort.js",
   },
+  {
+    name: "Selection Sort",
+    path: "code/23_selection_sort.js",
+  },
 ];
