@@ -99,4 +99,8 @@ const filePaths = [
     name: "Merge Sort",
     path: "code/25_merge_sort.js",
   },
+  {
+    name: "Quick Sort",
+    path: "code/26_quick_sort.js",
+  },
 ];
