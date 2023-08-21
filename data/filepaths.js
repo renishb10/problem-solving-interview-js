@@ -103,4 +103,8 @@ const filePaths = [
     name: "Quick Sort",
     path: "code/26_quick_sort.js",
   },
+  {
+    name: "Radix Sort",
+    path: "code/27_radix_sort.js",
+  },
 ];
