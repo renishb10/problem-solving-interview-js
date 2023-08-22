@@ -107,4 +107,8 @@ const filePaths = [
     name: "Radix Sort",
     path: "code/27_radix_sort.js",
   },
+  {
+    name: "Singly Linked List",
+    path: "code/28_singly_linked_list.js",
+  },
 ];
