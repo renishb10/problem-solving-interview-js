@@ -111,4 +111,16 @@ const filePaths = [
     name: "Singly Linked List",
     path: "code/28_singly_linked_list.js",
   },
+  {
+    name: "Doubly Linked List",
+    path: "code/29_doubly_linked_list.js",
+  },
+  {
+    name: "Stack",
+    path: "code/30_stack.js",
+  },
+  {
+    name: "Queue",
+    path: "code/31_queue.js",
+  },
 ];
